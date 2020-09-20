@@ -1,3 +1,7 @@
+/* eslint-disable object-shorthand */
+/* eslint-disable quotes */
+/* eslint-disable no-var */
+/* eslint-disable no-undef */
 'use strict';
 
 window.GameConstants = {
